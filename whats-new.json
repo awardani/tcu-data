@@ -1,0 +1,38 @@
+[
+  {
+    "type":   "Feature",
+    "title":  "Box Management v2 — now in InventoryLab",
+    "dek":    "Faster box assignment, multi-location prep, and a redesigned shipment view rolling out this week.",
+    "date":   "2026-04-22",
+    "meta":   "Product update",
+    "author": "Product Team",
+    "href":   "/features/box-management-v2"
+  },
+  {
+    "type":   "Course",
+    "title":  "Seller 365 Challenge: 30-Day Sprint",
+    "dek":    "A guided 30-day program that walks you through every Seller 365 tool, with weekly office hours.",
+    "date":   "2026-05-05",
+    "meta":   "8 lessons · 2h 14m",
+    "author": "Krissy James",
+    "href":   "/course/seller-365-challenge"
+  },
+  {
+    "type":   "Blog",
+    "title":  "Streamline Your Accounting with Seller 365",
+    "dek":    "Stop reconciling fees by hand. A practical setup that pulls InventoryLab + FeedbackWhiz numbers into one dashboard.",
+    "date":   "2026-05-04",
+    "meta":   "6 min read",
+    "author": "Jordan Reyes",
+    "href":   "/blog/streamline-accounting-s365"
+  },
+  {
+    "type":   "Webinar",
+    "title":  "TA Quick Picks: Wins for Online Arbitrage",
+    "dek":    "Live walkthrough of Tactical Arbitrage filters that consistently surface profitable products in under 10 minutes.",
+    "date":   "2026-05-07",
+    "meta":   "Live · 45 min",
+    "author": "Live · May 7, 11:00 AM EDT",
+    "href":   "https://events.threecolts.com/ta-quick-picks"
+  }
+]
